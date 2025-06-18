@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "this is a pre installation part of the script comming from source code repo"
+exec /usr/libexec/s2i/assemble
