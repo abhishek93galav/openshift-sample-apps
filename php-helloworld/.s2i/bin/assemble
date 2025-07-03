@@ -1,0 +1,3 @@
+#!/bin/bash
+echo this is executed before main scfript is called for app installation
+exec /usr/libexec/s2i/assemble
